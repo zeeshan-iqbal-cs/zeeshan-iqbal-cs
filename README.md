@@ -1,4 +1,4 @@
-
+![Cover Photo](photos/page-cover.png)
 # 👋 Hi! This is Zeeshan . . .
 
 - 🔭 I’m currently working on IoT devices.
