@@ -1,7 +1,7 @@
 ![Cover Photo](photos/page-cover.png)
 # 👋 Hi! This is Zeesh . . .
 
-- 🔭 I’m currently working on scaling the software.
+- 🔭 As s senior backend engineer and a team lead, I’m currently working on scaling the software. How much is the scale? 2.3 million users and 150 TB of data.
 - 🌱 I’m currently learning how to ensure 99.99% availability.
 - 🤔 I’m looking for a new job in the US.
 - 💬 Ask me about anything about tech, mentorship, consultation.
