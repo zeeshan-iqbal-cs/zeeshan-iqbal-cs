@@ -1,10 +1,9 @@
 ![Cover Photo](photos/page-cover.png)
-# 👋 Hi! This is Zeeshan . . .
+# 👋 Hi! This is Zeesh . . .
 
-- 🔭 I’m currently working on IoT devices.
-- 🌱 I’m currently learning javascript to talk better with machines and chinese to talk better with humans.
-- 🤔 I’m looking for help for building community around IoT
-- 💬 Ask me about anything about circuits and software.
+- 🔭 I’m currently working on scaling the software.
+- 🌱 I’m currently learning how to ensure 99.99% availability.
+- 🤔 I’m looking for a new job in the US.
+- 💬 Ask me about anything about tech, mentorship, consultation.
 - 📫 How to reach me: zeeshan.iqbal.cs@gmail.com
-- 😄 Pronouns: zee shan
-- ⚡ Fun fact: I just finished the book 'Kafka on on the shore'
+- ⚡ Fun fact: I just finished the book 'Sapiens'
